@@ -22,4 +22,8 @@
 /nbbuild/
 /dist/
 /nbdist/
+<<<<<<< HEAD
 /.nb-gradle/
+=======
+/.nb-gradle/
+>>>>>>> 51b83701437db2a144026debdb03fb28ac1e5a00
